@@ -96,6 +96,8 @@ def main():
         authenticator.logout("Logout", "sidebar")
 
 
+
+
         st.title("Speech-to-Text Medical Dictation")
 
         # File uploader widget
